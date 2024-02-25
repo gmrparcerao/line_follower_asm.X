@@ -4,7 +4,7 @@ Copyright 2019, Bruno Ryuiti Kitano, Gabriel Liobino Sampaio, Guilherme Matheus 
 
 ## Introduction
 
-Line Follower Robot (Assembly) is a classic line-track follower robot programmed using Assembly Language for the PIC16F428A.
+Line Follower Robot (Assembly) is a classic line-track follower robot programmed using Assembly Language for the PIC16F428A using MPLAB X IDE.
 
 The project was made as part of the semestral project in the Microcontrollers course of Sao Paulo State Technology College of Itaquera "Professor Miguel Reale" Associate of Science in Industrial Automation program.
 
